@@ -17,7 +17,7 @@ El sistema:
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/usuario/chatbot_project.git
+git clone https://github.com/MiguelNaranjo02/PruebaTecnicaChatbot
 cd chatbot_project
 
 ### 2. Crear y activar entorno virtual (recomendado con conda o venv)
