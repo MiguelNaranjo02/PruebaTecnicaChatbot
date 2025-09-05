@@ -1,0 +1,48 @@
+2025-09-01 11:40:59.463 | INFO     | src.api.server:chat:24 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] User: Ya funcionas
+2025-09-01 11:40:59.469 | INFO     | src.api.server:chat:26 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] Bot: Voy a derivar esta conversación a un agente humano para brindarte una mejor atención. ¿Deseas dejar un correo o teléfono? (cat= consultoría en datos e implementación de IA., score=0.00, handoff=True)
+2025-09-01 11:41:46.310 | INFO     | src.api.server:chat:24 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] User: Necesito cotizar un producto
+2025-09-01 11:41:46.313 | INFO     | src.api.server:chat:26 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] Bot: Si necesitas escalar un caso (cat= indícanos 'Quiero hablar con un agente humano'., score=0.39, handoff=False)
+2025-09-01 11:42:20.718 | INFO     | src.api.server:chat:24 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] User: Necesito comprar un viaje
+2025-09-01 11:42:20.727 | INFO     | src.api.server:chat:26 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] Bot: Si necesitas escalar un caso (cat= indícanos 'Quiero hablar con un agente humano'., score=0.39, handoff=False)
+2025-09-01 11:42:55.366 | INFO     | src.api.server:chat:24 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] User: Dime otra cosa
+2025-09-01 11:42:55.376 | INFO     | src.api.server:chat:26 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] Bot: Voy a derivar esta conversación a un agente humano para brindarte una mejor atención. ¿Deseas dejar un correo o teléfono? (cat= consultoría en datos e implementación de IA., score=0.00, handoff=True)
+2025-09-01 11:43:07.164 | INFO     | src.api.server:chat:24 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] User: Tengo un error
+2025-09-01 11:43:07.174 | INFO     | src.api.server:chat:26 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] Bot: Si necesitas escalar un caso (cat= indícanos 'Quiero hablar con un agente humano'., score=0.39, handoff=False)
+2025-09-01 11:45:02.641 | INFO     | src.api.server:chat:24 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] User: Tengo un error
+
+
+2025-09-01 11:45:02.644 | INFO     | src.api.server:chat:26 - [804a27a1-9505-4bf2-8c65-21caae1d84e0] Bot: Si necesitas escalar un caso (cat= indícanos 'Quiero hablar con un agente humano'., score=0.39, handoff=False)
+2025-09-01 11:45:13.001 | INFO     | src.api.server:chat:24 - [6ad67cfe-3cf6-4aed-976a-e95a1bf5eb95] User: Tengo un erorr
+2025-09-01 11:45:13.009 | INFO     | src.api.server:chat:26 - [6ad67cfe-3cf6-4aed-976a-e95a1bf5eb95] Bot: Si necesitas escalar un caso (cat= indícanos 'Quiero hablar con un agente humano'., score=0.39, handoff=False)
+2025-09-01 11:47:25.488 | INFO     | src.api.server:chat:24 - [0f562c85-04f1-4b17-8b48-74f943f68f4c] User: Quiero comprar
+2025-09-01 11:47:25.497 | INFO     | src.api.server:chat:26 - [0f562c85-04f1-4b17-8b48-74f943f68f4c] Bot: Voy a derivar esta conversación a un agente humano para brindarte una mejor atención. ¿Deseas dejar un correo o teléfono? (cat= consultoría en datos e implementación de IA., score=0.00, handoff=True)
+2025-09-01 11:48:37.086 | INFO     | src.api.server:chat:24 - [0f562c85-04f1-4b17-8b48-74f943f68f4c] User: comprar
+2025-09-01 11:48:37.094 | INFO     | src.api.server:chat:26 - [0f562c85-04f1-4b17-8b48-74f943f68f4c] Bot: Voy a derivar esta conversación a un agente humano para brindarte una mejor atención. ¿Deseas dejar un correo o teléfono? (cat= consultoría en datos e implementación de IA., score=0.00, handoff=True)
+2025-09-01 11:55:19.016 | INFO     | src.api.server:chat:24 - [0f562c85-04f1-4b17-8b48-74f943f68f4c] User: ¿Qué servicios ofrecen?
+2025-09-01 11:55:19.024 | INFO     | src.api.server:chat:26 - [0f562c85-04f1-4b17-8b48-74f943f68f4c] Bot: Ofrecemos desarrollo de software (cat= consultoría en datos e implementación de IA., score=1.00, handoff=False)
+2025-09-01 11:56:04.282 | INFO     | src.api.server:chat:24 - [d75d4c13-91be-4d66-bff7-9bca94b0b382] User: ¿Qué servicios ofrecen?
+2025-09-01 11:56:04.290 | INFO     | src.api.server:chat:26 - [d75d4c13-91be-4d66-bff7-9bca94b0b382] Bot: Ofrecemos desarrollo de software (cat= consultoría en datos e implementación de IA., score=1.00, handoff=False)
+2025-09-01 11:58:50.883 | INFO     | src.api.server:chat:24 - [0dc0a29d-1912-47f3-8cbd-61be5eb8b183] User: ¿Qué servicios ofrecen?
+2025-09-01 11:58:50.886 | INFO     | src.api.server:chat:26 - [0dc0a29d-1912-47f3-8cbd-61be5eb8b183] Bot: Ofrecemos desarrollo de software (cat= consultoría en datos e implementación de IA., score=1.00, handoff=False)
+2025-09-01 12:02:48.280 | INFO     | src.api.server:chat:24 - [0dc0a29d-1912-47f3-8cbd-61be5eb8b183] User: ¿Qué servicios ofrecen?
+2025-09-01 12:02:48.286 | INFO     | src.api.server:chat:26 - [0dc0a29d-1912-47f3-8cbd-61be5eb8b183] Bot: Ofrecemos desarrollo de software (cat= consultoría en datos e implementación de IA., score=1.00, handoff=False)
+2025-09-01 12:02:57.265 | INFO     | src.api.server:chat:24 - [1fcc8e6d-bd1d-4c29-9c34-8af8b251305f] User: ¿Qué servicios ofrecen?
+2025-09-01 12:02:57.272 | INFO     | src.api.server:chat:26 - [1fcc8e6d-bd1d-4c29-9c34-8af8b251305f] Bot: Ofrecemos desarrollo de software (cat= consultoría en datos e implementación de IA., score=1.00, handoff=False)
+2025-09-01 12:03:15.664 | INFO     | src.api.server:chat:24 - [f6db3291-fe0d-47b9-9f74-58e804bc7529] User: ¿Qué servicios ofrecen?
+
+
+2025-09-01 12:03:15.670 | INFO     | src.api.server:chat:26 - [f6db3291-fe0d-47b9-9f74-58e804bc7529] Bot: Ofrecemos desarrollo de software (cat= consultoría en datos e implementación de IA., score=1.00, handoff=False)
+2025-09-01 12:04:16.442 | INFO     | src.api.server:chat:24 - [537999e8-f4f0-4707-b328-d6b7a6e3fbd1] User: ¿Qué servicios ofrecen?
+
+
+2025-09-01 12:04:16.457 | INFO     | src.api.server:chat:26 - [537999e8-f4f0-4707-b328-d6b7a6e3fbd1] Bot: Ofrecemos desarroll de software, consultoría en datos e implementación de IA. (cat=información, score=1.00, handoff=False)
+2025-09-01 12:04:40.978 | INFO     | src.api.server:chat:24 - [537999e8-f4f0-4707-b328-d6b7a6e3fbd1] User: ¿Cómo puedo solicitar una cotización?
+2025-09-01 12:04:40.987 | INFO     | src.api.server:chat:26 - [537999e8-f4f0-4707-b328-d6b7a6e3fbd1] Bot: Puedes escribirnos a ventas@empresa.com o usar el formulario de cotización en el sitio. (cat=ventas, score=1.00, handoff=False)
+2025-09-01 12:04:57.795 | INFO     | src.api.server:chat:24 - [537999e8-f4f0-4707-b328-d6b7a6e3fbd1] User: ¿Puedo agendar una demo?
+2025-09-01 12:04:57.801 | INFO     | src.api.server:chat:26 - [537999e8-f4f0-4707-b328-d6b7a6e3fbd1] Bot: Sí, agenda en demo.empresa.com o escríbenos para coordinar. (cat=ventas, score=1.00, handoff=False)
+2025-09-01 12:09:02.289 | INFO     | src.api.server:chat:24 - [f0c190ef-ea98-4049-be31-6e5d7514db07] User: ¿Qué servicios ofrecen?
+2025-09-01 12:09:02.301 | INFO     | src.api.server:chat:26 - [f0c190ef-ea98-4049-be31-6e5d7514db07] Bot: Ofrecemos desarroll de software, consultoría en datos e implementación de IA. (cat=información, score=1.00, handoff=False)
+2025-09-01 12:10:41.647 | INFO     | src.api.server:chat:24 - [f0c190ef-ea98-4049-be31-6e5d7514db07] User: No me sirves
+2025-09-01 12:10:41.654 | INFO     | src.api.server:chat:26 - [f0c190ef-ea98-4049-be31-6e5d7514db07] Bot: Voy a derivar esta conversación a un agente humano para brindarte una mejor atención. ¿Deseas dejar un correo o teléfono? (cat=información, score=0.00, handoff=True)
+2025-09-01 12:10:49.818 | INFO     | src.api.server:chat:24 - [f0c190ef-ea98-4049-be31-6e5d7514db07] User: Que productos tienen
+2025-09-01 12:10:49.828 | INFO     | src.api.server:chat:26 - [f0c190ef-ea98-4049-be31-6e5d7514db07] Bot: Sí, brindamos soporte 24/7 para planes empresariales.,soporte,soporte;horarios (cat=información, score=0.45, handoff=False)

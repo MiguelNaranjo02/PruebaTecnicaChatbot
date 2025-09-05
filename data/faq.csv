@@ -1,0 +1,7 @@
+question,answer,category,tags
+¿Qué servicios ofrecen?,"Ofrecemos desarrollo de software, consultoría en datos e implementación de IA.",información,servicios;portafolio
+¿Cómo puedo solicitar una cotización?,"Puedes escribirnos a ventas@empresa.com o usar el formulario de cotización en el sitio.",ventas,cotizacion;precios
+¿Tienen soporte 24/7?,"Sí, brindamos soporte 24/7 para planes empresariales.",soporte,soporte;horarios
+¿Qué tecnologías utilizan?,"Trabajamos con Python, FastAPI, React y modelos de ML/IA de código abierto.",información,tecnologias
+¿Cómo escalo un reclamo?,"Si necesitas escalar un caso indícanos 'Quiero hablar con un agente humano".,soporte,escalamiento;agente
+¿Puedo agendar una demo?,"Sí, agenda en demo.empresa.com o escríbenos para coordinar.",ventas,demo
